@@ -3,7 +3,7 @@
     margin: 0;
     font-family: sans-serif;
     box-sizing: border-box;
-    color: grey;
+    color: black;
 }
 
 #container {
@@ -24,7 +24,7 @@
 
 #content h2 {
     font-size: 200px;
-    color: grey;
+    color: black;
 }
 
 #content p {
