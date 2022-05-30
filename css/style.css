@@ -15,8 +15,8 @@
 
 
 #content {
-    height: 500px;
-    width: 700px;
+    height: 1000px;
+    width: 1000px;
     position: absolute;
     top: calc(50% - 250px);
 }
