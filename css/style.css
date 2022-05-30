@@ -58,7 +58,7 @@
 #aSide model-viewer {
     height: 2000px;
     width: 2000px;
-    position: center;
+    position: fixed;
     top: 0;
     left: 0;
     border: none;
